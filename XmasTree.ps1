@@ -1,5 +1,5 @@
 ﻿#requires -Version 2
-Function Xmass-Tree 
+Function Xmas-Tree 
 {
     param
     (
@@ -113,4 +113,4 @@ write-host '
     until (($key.VirtualKeyCode -cmatch 27))
 }
 
-Xmass-Tree
+Xmas-Tree
